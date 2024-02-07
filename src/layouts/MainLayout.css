@@ -1,0 +1,38 @@
+
+.headline {
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 100%;
+}
+.headline .headlineText {
+    font-size: x-large;
+    color: azure;
+    font-weight: bold;
+    cursor: pointer;
+}
+.headline .linkText {
+    font-size: large;
+    color: azure;
+    text-align: center;
+    font-weight: bold;
+    margin-left: 50%;
+}
+.headline .linkIcon {
+    font-size: x-large;
+    color: azure;
+    text-align: center;
+    margin-left: 50%;
+    cursor: pointer;
+}
+.headline .search {
+    margin-top: 16px;
+}
+.site-layout {
+    padding: 0 10%;
+}
+
+.site-layout .container {
+    min-height: 800px;
+    padding: 8px 50px 50px;
+    background-color: white;
+}
